@@ -1,13 +1,13 @@
 const menuItems = [
-  { name: "Paneer Tikka", price: 180, img: "images/paneer.jpg" },
-  { name: "Masala Dosa", price: 120, img: "images/dosa.jpg" },
-  { name: "Veg Biryani", price: 150, img: "images/biryani.jpg" },
-  { name: "Butter Naan", price: 40, img: "images/naan.jpg" },
-  { name: "Chole Bhature", price: 130, img: "images/chole.jpg" },
-  { name: "Gulab Jamun", price: 60, img: "images/jamun.jpg" },
-  { name: "Mango Lassi", price: 70, img: "images/lassi.jpg" },
-  { name: "Tandoori Chicken", price: 220, img: "images/tandoori.jpg" },
-  { name: "Pav Bhaji", price: 110, img: "images/pavbhaji.jpg" }
+  { name: "Paneer Tikka", price: 180, img: "C:\Users\DELL\OneDrive\Desktop\image\Paneer tikka.jps.jpg" },
+  { name: "Masala Dosa", price: 120, img: "C:\Users\DELL\OneDrive\Desktop\image\masala dosa.jps.webp" },
+  { name: "Veg Biryani", price: 150, img:"C:\Users\DELL\OneDrive\Desktop\image\Veg Biryani.jps.jpg" },
+  { name: "Butter Naan", price: 40, img: "C:\Users\DELL\OneDrive\Desktop\image\butter naan.jps.jpg"},
+  { name: "Chole Bhature", price: 130, img:"C:\Users\DELL\OneDrive\Desktop\image\Chole Bhature.jps.jpeg" },
+  { name: "Gulab Jamun", price: 60, img: "C:\Users\DELL\OneDrive\Desktop\image\Gulab Jamun.jps.webp"},
+  { name: "Mango Lassi", price: 70, img:"C:\Users\DELL\OneDrive\Desktop\image\Mango Lassi.jps.jpg"},
+  { name: "Tandoori Chicken", price: 220, img: "C:\Users\DELL\OneDrive\Desktop\image\Tandoori Chicken.jps.jpg" },
+  { name: "Pav Bhaji", price: 110, img:"C:\Users\DELL\OneDrive\Desktop\image\Pav Bhaji.jps.jpg" }
 ];
 const menuContainer = document.getElementById("menu-items");
 const cartList = document.getElementById("cart-list");
